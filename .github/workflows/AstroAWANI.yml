@@ -41,8 +41,8 @@ jobs:
       - name: Main
         run: |
           pwd
-          chmod +x AstroAwani.sh
-          ./AstroAwani.sh
+          chmod +x AstroAWANI.sh
+          ./AstroAWANI.sh
         
       - name: git add
         run: |
