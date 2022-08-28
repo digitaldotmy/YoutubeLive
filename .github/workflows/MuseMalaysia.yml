@@ -42,7 +42,7 @@ jobs:
         run: |
           pwd
           chmod +x MuseMalaysia.sh
-          ./Musemalaysia.sh
+          ./MuseMalaysia.sh
         
       - name: git add
         run: |
