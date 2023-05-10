@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/digitaldotmy/YoutubeLive/main/assets/Interrupted.m3u
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1683703026/ei/kvBaZIOLF8Kilu8P9rmt6AQ/ip/40.77.45.146/id/0TLjiJAXQCk.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr1---sn-q4fzen7r.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/LU/mm/44/mn/sn-q4fzen7r/ms/lva/mv/u/mvi/1/pl/17/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1683679992/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAKt0N8CXEsPxlNFSum7xBa40KXgnyJQx-h4zIoUewqJ3AiEA2w8gX5o4ok-mkJBBZggAAoHZNsmlZxGyRSRikpq1AEI%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhANMcKZ1_hoylEf1OlAz7F7ytsoICP21ffcwBFc2LGSsuAiBRSY5l0UcmHmnhvg3m9i7DR61VtOKoD8cK2LYaIyRwPQ%3D%3D/playlist/index.m3u8
