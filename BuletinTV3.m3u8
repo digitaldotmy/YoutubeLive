@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/digitaldotmy/YoutubeLive/main/assets/Interrupted.m3u
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1689286977/ei/4SSwZPOrFpO68wSox5bICA/ip/20.57.75.20/id/8qAzI9QlNCw.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr1---sn-p5qlsny6.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/Ul2Sq7gKD6eckm5WUgl7BY97MADTFXxVLH_Pw7o9mg/vprv/1/playlist_type/DVR/initcwndbps/3946250/mh/xT/mm/44/mn/sn-p5qlsny6/ms/lva/mv/m/mvi/1/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246,51000024/beids/24350017/mt/1689265032/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRQIgfRv-DSsf3dZxlc3HI_CNOsnoh-kVxbhtodOE0E5ZJB0CIQCQY2ryUhOsi2mwzFplUGGJQ3VWkzspuWH_o97W3YluWQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAOmNtAr7sZIGK9LtGv_poWMMl5o_ydk-QaLkrxpgZ3ejAiEAxQULqWRkvVI2l0KcMglVTVVHa6Kdy5Zj2-s6kInP9TQ%3D/playlist/index.m3u8
